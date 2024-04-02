@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SecurityLight"
+rootProject.name = "AminoSecurityLight"
 include(":app")
  

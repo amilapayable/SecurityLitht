@@ -1,4 +1,4 @@
-package com.aminogira.securitylight;
+package com.aminogira.aminosecuritylight;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.aminogira.securitylight", appContext.getPackageName());
+        assertEquals("com.aminogira.aminosecuritylight", appContext.getPackageName());
     }
 }

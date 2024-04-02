@@ -1,4 +1,4 @@
-package com.aminogira.securitylight;
+package com.aminogira.aminosecuritylight;
 
 import org.junit.Test;
 
